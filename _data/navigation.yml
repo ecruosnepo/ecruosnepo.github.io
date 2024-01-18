@@ -1,0 +1,40 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/ecruosnepo
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.09.24 sidebar ver2.0 : main-sub version
+categories:
+  - title: "Front-End"
+    children:
+      - title: "CSS"
+        url: /Front-End/CSS/
+      - title: "JavaScript"
+        url: /Front-End/JavaScript/
+
+  - title: "Back-End"
+    children:
+      - title: "Java"
+        url: /Back-End/Java/
+      - title: "Spring"
+        url: /Back-End/Spring/
+
+  - title: "Algorithm"
+    children:
+      - title: "Baekjoon"
+        url: /Algorithm/Baekjoon/    
+
+  - title: "Practice"
+    children:
+      - title: "Infinite Scroll"
+        url: /Practice/Infinite Scroll/
